@@ -133,12 +133,10 @@ footer {
 }
 
 @media only screen and (max-width: 467px) {
-    .container {
-        width: 90%;
-        padding: 1em 0;
-    }
     .card-container {
         flex-direction-column;
+        width: 90%;
+        padding: 1em 0;
     }
     .card {
         margin-top: 1.5em;
