@@ -131,3 +131,16 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
+
+@media (max-width: 467px) {
+    .container {
+        width: 90%;
+        padding: 1em 0;
+    }
+    .card-container {
+        flex-direction-column;
+    }
+    .card {
+        margin-top: 1.5em;
+    }
+}
