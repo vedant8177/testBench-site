@@ -209,6 +209,9 @@ footer {
     #hamburger > svg {
         display: block;
     }
+    .container p {
+        text-align: center;
+    }
 }
 
 @media (max-width: 1024px) {
