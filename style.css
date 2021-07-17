@@ -216,6 +216,6 @@ footer {
         width: 90%;
     }
     .card {
-        width: 220px;
+        margin: 0 1.5em;
     }
 }
