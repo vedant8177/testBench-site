@@ -215,7 +215,4 @@ footer {
     .container, .card-container {
         width: 90%;
     }
-    .card {
-        margin: 0 1.5em;
-    }
 }
