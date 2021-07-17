@@ -209,7 +209,7 @@ footer {
     #hamburger > svg {
         display: block;
     }
-    .container p {
+    .container {
         text-align: center;
     }
 }
